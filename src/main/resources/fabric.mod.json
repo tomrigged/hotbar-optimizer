@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "tomaxmc_hotbar_optimizer",
+	"id": "tomaxmc_optimizer",
 	"version": "${version}",
-	"name": "TomaxMC Hotbar optimizer",
-	"description": "Haalt de wissel-vertraging van de hotbar weg: het gekozen item staat meteen in je hand.",
+	"name": "TomaxMC Optimizer",
+	"description": "Optimize ur Minecraft for ultimate performance",
 	"authors": ["TomaxMC"],
 	"license": "MIT",
 	"environment": "client",
