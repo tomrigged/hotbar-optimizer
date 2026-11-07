@@ -1,0 +1,16 @@
+{
+	"schemaVersion": 1,
+	"id": "tomaxmc_hotbar_optimizer",
+	"version": "${version}",
+	"name": "TomaxMC Hotbar optimizer",
+	"description": "Haalt de wissel-vertraging van de hotbar weg: het gekozen item staat meteen in je hand.",
+	"authors": ["TomaxMC"],
+	"license": "MIT",
+	"environment": "client",
+	"mixins": ["tomaxmc_hotbar_optimizer.mixins.json"],
+	"depends": {
+		"fabricloader": ">=0.17.0",
+		"minecraft": "~1.21.11",
+		"java": ">=21"
+	}
+}
